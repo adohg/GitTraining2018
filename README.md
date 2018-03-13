@@ -1,1 +1,2 @@
-# GitTraining2018
+washington nyamusa
+dynamic dna
